@@ -1,12 +1,17 @@
 {
   "name": "pad-even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple package to pad strings evenly",
   "main": "index.js",
   "scripts": {
     "test": "node example.js"
   },
-  "keywords": [],
+  "keywords": [
+    "padding",
+    "string",
+    "pad",
+    "repeat",
+  ],
   "author": "Souvik Kar Mahapatra <souvikat001@gmail.com>",
   "license": "MIT",
   "repository": {
