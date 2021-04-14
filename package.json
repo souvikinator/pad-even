@@ -1,12 +1,20 @@
 {
   "name": "pad-even",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple package to pad strings evenly",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node example.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Souvik Kar Mahapatra <souvikat001@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthCucumber/pad-even.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarthCucumber/pad-even/issues"
+  },
+  "homepage": "https://github.com/DarthCucumber/pad-even#readme"
 }
